@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm Alfonso, A aspiring Frontend Web Developmer with a degree in computer science.
 
-
+### Tech Stack 👋
+JavaScript Badge TypeScript Badge React Badge htmx Badge PHP Badge Tailwind CSS Badge Sass Badge
 <!--
 **LapinGit/LapinGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
