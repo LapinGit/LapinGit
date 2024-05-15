@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Alfonso, A aspiring Frontend Web Developmer with a degree in computer science.
+
 
 <!--
 **LapinGit/LapinGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
